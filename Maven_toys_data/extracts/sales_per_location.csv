@@ -1,0 +1,51 @@
+"store_city","store_location","sold_product_amount","product_profit"
+"Cuidad de Mexico","Airport",42757,169856.00
+"Guadalajara","Airport",31609,121571.00
+"Cuidad de Mexico","Downtown",33479,111296.00
+"Monterrey","Downtown",28318,106783.00
+"Toluca","Downtown",32668,104612.00
+"Guadalajara","Downtown",24136,102178.00
+"Hermosillo","Commercial",23236,98825.00
+"Mexicali","Commercial",22858,97206.00
+"Saltillo","Downtown",24010,94252.00
+"Cuidad de Mexico","Residential",26634,94021.00
+"Morelia","Downtown",20895,90484.00
+"Cuidad de Mexico","Commercial",22729,90385.00
+"Xalapa","Downtown",25296,88637.00
+"Campeche","Downtown",24556,88248.00
+"Guanajuato","Downtown",24740,88002.00
+"Hermosillo","Downtown",23498,87995.00
+"Monterrey","Airport",22076,86622.00
+"Ciudad Victoria","Downtown",20501,83088.00
+"Guanajuato","Commercial",21133,79550.00
+"Monterrey","Commercial",22450,79339.00
+"Puebla","Residential",19345,78670.00
+"Mexicali","Downtown",21557,77842.00
+"Chihuahua","Downtown",22326,77263.00
+"Hermosillo","Residential",20082,76788.00
+"Puebla","Commercial",19413,75942.00
+"Guadalajara","Commercial",20698,75752.00
+"Xalapa","Commercial",18927,75083.00
+"Puebla","Downtown",22413,75082.00
+"Villahermosa","Downtown",20934,74221.00
+"Monterrey","Residential",20886,73985.00
+"Santiago","Downtown",20286,72922.00
+"Chihuahua","Commercial",18070,69605.00
+"Guadalajara","Residential",20011,69429.00
+"Saltillo","Commercial",18893,68996.00
+"San Luis Potosi","Downtown",19635,68880.00
+"Aguascalientes","Downtown",17865,68642.00
+"Chetumal","Downtown",18965,67940.00
+"Guanajuato","Residential",18444,67495.00
+"Chilpancingo","Downtown",18327,66558.00
+"Tuxtla Gutierrez","Downtown",19773,65787.00
+"Merida","Downtown",18328,64399.00
+"Pachuca","Downtown",19185,63989.00
+"Culiacan","Downtown",19909,63959.00
+"Durango","Downtown",17422,62673.00
+"Oaxaca","Downtown",18564,59618.00
+"Zacatecas","Downtown",17196,59160.00
+"Campeche","Commercial",16277,58091.00
+"Toluca","Commercial",15964,58090.00
+"La Paz","Downtown",16217,57407.00
+"Cuernavaca","Downtown",17074,56811.00
